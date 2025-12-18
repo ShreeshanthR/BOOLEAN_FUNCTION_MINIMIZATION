@@ -45,7 +45,7 @@ assign F = (~A & B) | (C & D) | (A & ~D);
 
 endmodule
 ```
-Developed by: Shreeshnth R RegisterNumber: 25012265*/
+Developed by: Shreeshnth R RegisterNumber: 25012265
 
 **RTL realization**
 
