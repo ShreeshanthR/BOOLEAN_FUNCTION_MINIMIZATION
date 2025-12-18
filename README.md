@@ -31,7 +31,7 @@ Hardware – PCs, Cyclone II , USB flasher
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**F(A,B,C,D)=AB+CD+AD
+Program:F(A,B,C,D)=AB+CD+AD
 ```
     module boolean_function_4var (
     input  wire A,
